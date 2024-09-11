@@ -67,6 +67,18 @@ Your answer: 14
 Correct!
 
 
+## Brain-progression
+
+This is a game where you need to identify the missing number in an arithmetic progression.
+
+### How to play
+
+Run the game with:
+
+```bash
+npx brain-progression
+
+
 == Ссылка на игру
 
 Вы можете найти проект на GitHub: [Brain Games](https://github.com/vadimkulishov/frontend-project-44)
