@@ -4,7 +4,8 @@
   "description": "[![Actions Status](https://github.com/vadimkulishov/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/vadimkulishov/frontend-project-44/actions)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "bin": {
     "brain-games": "bin/brain-games.js"
@@ -14,5 +15,12 @@
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "eslint-plugin-react": "^7.35.2",
+    "globals": "^15.9.0"
   }
 }
