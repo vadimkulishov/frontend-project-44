@@ -79,6 +79,23 @@ Run the game with:
 npx brain-progression
 
 
+## Brain-prime
+
+This is a game where you need to determine if a given number is prime.
+
+### How to play
+
+Run the game with:
+
+```bash
+npx brain-prime
+You will be presented with a number and need to answer "yes" if the number is prime, and "no" otherwise.
+
+Example
+Question: 7 Your answer: yes Correct!
+
+Question: 8 Your answer: no Correct!
+
 == Ссылка на игру
 
 Вы можете найти проект на GitHub: [Brain Games](https://github.com/vadimkulishov/frontend-project-44)
